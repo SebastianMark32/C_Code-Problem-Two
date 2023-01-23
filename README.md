@@ -18,7 +18,7 @@ For each test case in the input your program must print one line containing:
 • ‘SE’ if the residence is in Southeastern Nlogonia;
 • ‘SO’ (means SW in Portuguese) if the residence is in Southwestern Nlogonia.
 
-Sample Input
+Sample Input:
 3
 21
 10 10
@@ -29,7 +29,7 @@ Sample Input
 -2000 -10000 -999 -1001
 0
 
-Sample Output
+Sample Output:
 NE
 divisa
 NO
@@ -38,3 +38,5 @@ NE
 SO
 SE
  
+
+ ** Note this should be typed in squentially into the terminal to produce the desired output. 
